@@ -1,0 +1,9 @@
+{
+	"name": "CICDDemoADF-GIT",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e645dac0-047b-470e-b012-7a670bac0b71",
+		"tenantId": "18791e17-6159-4f52-a8d4-de814ca8284a"
+	}
+}
